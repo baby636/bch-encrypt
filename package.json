@@ -12,7 +12,7 @@
   },
   "bugs": "https://github.com/christroutner/bch-encrypt/issues",
   "dependencies": {
-    "@chris.troutner/bch-js": "^2.3.12",
+    "@chris.troutner/bch-js": "^3.4.1",
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^2",
